@@ -1,16 +1,44 @@
-# blood_application
+# 🩸 Blood Donation App
 
-A new Flutter project.
+A Flutter mobile application that helps people request blood and connect with donors easily.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 📱 About the Project
+The Blood Donation App is designed to make blood donation faster and more accessible.
+Users can search for donors by blood group and location, and donors can respond to requests in real time.
 
-A few resources to get you started if this is your first Flutter project:
+This project is built as part of my Flutter learning and real-world practice.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## ✨ Features
+- User Registration & Login
+- Search donors by blood group
+- Blood request posting
+- Simple and clean UI
+- Firebase backend integration
+
+---
+
+## 🛠 Tech Stack
+- **Flutter** (Dart)
+- **Firebase Authentication**
+- **Cloud Firestore**
+- **Material UI**
+
+---
+
+## 🚀 Getting Started
+
+### Prerequisites
+- Flutter SDK installed
+- Android Studio / VS Code
+- Firebase project setup
+
+### Installation
+```bash
+git clone https://github.com/Awaiskhan009-ux/bloodDonationApp.git
+cd bloodDonationApp
+flutter pub get
+flutter run
